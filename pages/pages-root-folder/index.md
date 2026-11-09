@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: IMG_0516.jpeg #header_unsplash_12.jpg
 widget1:
   title: "Blog & Portfolio"
   url: 'http://StefanThor.github.io/blog/'
