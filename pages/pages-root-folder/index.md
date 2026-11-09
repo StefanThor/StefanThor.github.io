@@ -15,7 +15,10 @@ widget1:
 widget2:
   title: "Why use this theme?"
   url: 'http://StefanThor.github.io/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  text: 'Site explores ideas and knowledge on these themes, using: <br/> 1. Sociological Perspectives :) <br/>2. Techno-economic reasoning (new technology optimisation for favourable adoption)<br/>3. Cities as environmental and social environments driving demand (for energy, resource, change, stability..)<br/>4. Ideas from systems science (complexity, dynamics, feedback, interaction) <br/>5. Critical evaluation and interdisciplinary synthesis' 
+  
+  #<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...
+  
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://StefanThor.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Download Something"
