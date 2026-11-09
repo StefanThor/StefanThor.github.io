@@ -1,21 +1,18 @@
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+## Based on a Responsive Jekyll Theme: *Feeling Responsive*
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
+## Working with Feeling Responsive to create a website
 
-## Do you want to get to know *Feeling Responsive*? Have a look › <http://phlow.github.io/feeling-responsive/>.
-
-## Documentation & Features › [documentation][1].
 ## License › https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
 
-## Why use this theme?
+## Studying Energy Transitions and Environmental Logics
 
-## Feeling Responsive is heavily customizable.
+## Site explores ideas and knowledge on these themes, using: 
 
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
+1. Sociological Lenses :)
+2. Techno-economic reasoning (new technology optimisation for favourable adoption)
+3. Cities as environmental and social environments driving demand (for energy, resource, change, stability..)
+4. Ideas from systems science (complexity, dynamics, feedback, interaction)
+5. Critical evaluation and interdisciplinary synthesis
 
 ## **[More ›][3]**
 
