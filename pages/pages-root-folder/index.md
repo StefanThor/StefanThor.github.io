@@ -13,18 +13,18 @@ widget1:
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 widget2:
-  title: "Why use this theme?"
+  title: "Study of climate and energy in Built Environments"
   url: 'http://StefanThor.github.io/info/'
-  text: 'Site explores ideas and knowledge on these themes, using: <br/> 1. Sociological Perspectives :) <br/>2. Techno-economic reasoning (new technology optimisation for favourable adoption)<br/>3. Cities as environmental and social environments driving demand (for energy, resource, change, stability..)<br/>4. Ideas from systems science (complexity, dynamics, feedback, interaction) <br/>5. Critical evaluation and interdisciplinary synthesis' 
+  text: 'Site explores ideas and knowledge on related issues, using: <br/> 1. Sociological Perspectives :) <br/>2. Techno-economic reasoning (new technology optimisation for favourable adoption)<br/>3. Cities as environmental and social environments driving demand (for energy, resource, change, stability..)<br/>4. Ideas from systems science (complexity, dynamics, feedback, interaction) <br/>5. Critical evaluation and interdisciplinary synthesis' 
   
   #<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...
   
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://StefanThor.github.io/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Something"
+  title: "Relevant Resources"
   url: 'https://github.com/StefanThor/Downloads'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: '<em>Access to</em> published resources either as links or downloadable files. These resources explore different issues related to built environment that are of interest to the research team. They are diverse and so have been organised into different themes.'
 #
 # Use the call for action to show a button on the frontpage
 #
